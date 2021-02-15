@@ -13,7 +13,7 @@
 .marquee{
 	font-size: 200%;
 }
-a > [class=mylinks]{
+a > div{
 	fant-size: 250%;
 }
 body{
