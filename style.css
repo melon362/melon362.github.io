@@ -5,7 +5,7 @@
 }
 .bar{
 	width: 100%;
-	font-size: 500%;
+	font-size: 550%;
 	background: rgb(255,0,0);
 	background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%);
 	color: blue;
