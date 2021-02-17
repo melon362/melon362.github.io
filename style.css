@@ -5,7 +5,6 @@
        		url('comic.woff2') format('woff2'), /* Super Modern Browsers */
        		url('comic.woff') format('woff'), /* Pretty Modern Browsers */
        		url('comic.ttf')  format('truetype'), /* Safari, Android, iOS */
-       		url('comic.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 .bar{
 	width: 100%;
