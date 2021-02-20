@@ -1,1 +1,3 @@
-AddType application/x-httpd-php .htm .html .php
+AddType application/x-httpd-php .htm .html
+ErrorDocument 400 /errors/400.html
+ErrorDocument 404 /errors/404.html
