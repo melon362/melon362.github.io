@@ -1,18 +1,17 @@
 @font-face {
 	font-family: 'Comic Sans MS';
-	src: url('comic.eot'); /* IE9 Compat Modes */
- 	src: url('comic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
-       		url('comic.woff2') format('woff2'), /* Super Modern Browsers */
-       		url('comic.woff') format('woff'), /* Pretty Modern Browsers */
-       		url('comic.ttf')  format('truetype'), /* Safari, Android, iOS */
-		url('comic.svg#svgFontName') format('svg'); /* Legacy iOS */
+	src: url('./fonts/comic.eot'); /* IE9 Compat Modes */
+ 	src: url('./fonts/comic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       		url('./fonts/comic.woff2') format('woff2'), /* Super Modern Browsers */
+       		url('./fonts/comic.woff') format('woff'), /* Pretty Modern Browsers */
+       		url('./fonts/comic.ttf')  format('truetype'), /* Safari, Android, iOS */
+		url('./fonts/comic.svg#svgFontName') format('svg'); /* Legacy iOS */
 }
 .bar{
 	width: 100%;
 	font-size: 550%;
-	background: rgb(255,0,0);
-	background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(0,0,0,1) 50%, rgba(255,0,0,1) 100%);
-	color: blue;
+	background: blue;
+	color: red;
 	margin: 0;
 	padding: 0;
 }
